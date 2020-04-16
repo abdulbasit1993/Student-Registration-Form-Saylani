@@ -1,0 +1,42 @@
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1.form-heading {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #8A7CD1;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.form-div {
+    width: 1000px;
+    height: 100%;
+}
+
+table, th, .thead2 {
+    padding-left: 5px;
+}
+
+form {
+    background-color: #6B5ACD;
+    color: white;
+}
+
+.thank-you {
+    color: #2CA02C;  
+}
+
+.submitted {
+    color: #7E02CA;
+}
+
+div.thank-you-div {
+    text-align: center;
+}
+
+.go-back {
+    font-size: 26px;
+}
